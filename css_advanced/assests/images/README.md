@@ -1,1 +1,1 @@
-# Imaged
+# Images
